@@ -1,6 +1,6 @@
 # Keerthivasan-B---PATP---Experiment---2 
 
-# Experiment-2-Data-Visualization-Using-Matplotlib-and-Seaborn
+# Experiment-2-Data-Visualization Using Matplotlib and Seaborn
 
 ## Aim
 
